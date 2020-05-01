@@ -1,0 +1,6 @@
+
+/* class que da estilo a qualquer tag com class=titulo no html*/
+.titulo{
+    color: rgb(212, 243, 247);
+    background-color: rgb(17, 104, 110);
+}
